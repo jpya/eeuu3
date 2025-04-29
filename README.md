@@ -32,7 +32,7 @@
   <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
   <script>
     const video = document.getElementById('video');
-const src = "https://shlsakamai4.akamaized.net/hlsorigin/mountaineer_hd_fm_2200/chunklist.m3u8?stream=gulfstream_mbr&cust=TVG&user=&t=1745885205&h=70344f9f31021f426cc3ca10cfa29658&type=live";
+const src = "https://shlsakamai4.akamaized.net/hlsorigin/indiana_hd_fm_2200/chunklist.m3u8?stream=gulfstream_mbr&cust=TVG&user=&t=1745930500&h=e15e7e6bdcb2f862e2ffa8e6c2ee048d&type=live";
 
     if (Hls.isSupported()) {
       const hls = new Hls();
